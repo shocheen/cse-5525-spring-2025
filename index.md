@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Foundations of Speech and Language Processing
-nav_exclude: true
+title: Home
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
