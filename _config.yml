@@ -33,6 +33,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  "Canvas":
+    - "#"
+  "Teams":
+    - "#"
 footer_content:
 
 # Collections for website data

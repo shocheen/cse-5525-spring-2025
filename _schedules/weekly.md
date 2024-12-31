@@ -24,14 +24,14 @@ schedule:
   - name: Wednesday
   events:
       - name: Lecture
-        start: 1:20 PM
-        end: 2:40 PM
-        location: TBD
+        start: 2:20 PM
+        end: 3:40 PM
+        location: Jennings Hall 60
   - name: Thursday
   - name: Friday
   events:
       - name: Lecture
-        start: 1:20 PM
-        end: 2:40 PM
-        location: TBD
+        start: 2:20 PM
+        end: 3:40 PM
+        location: Jennings Hall 60
 ---
