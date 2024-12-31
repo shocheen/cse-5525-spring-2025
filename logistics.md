@@ -43,17 +43,30 @@ updates to the syllabus. Any changes will be clearly noted in course announcemen
 
 ## Learning Resources
 
-### Textbook
+### All readings are optional
 
-Recommended Texts & Other Readings:
+* Y. Goldberg, Neural Network Methods in Natural Language Processing, 2017. (available online within Ohio State)
+Michael Collins, Notes on Statistical NLP.
+* D. Jurafsky & James H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition, Prentice Hall, Third Edition, 2023 (in progress).
+* J. Eisenstein, Introduction to Natural Language Processing, MIT Press, 2019. (complete draft available online)
+* C.D. Manning & H. Schuetze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
+* P. Koehn, Neural Machine Translation (book chapter drafts)
 
-* Jurafsky and Martin’s (in preparation) "Speech and Language Processing", 3rd Edition: https://web.stanford.edu/~jurafsky/slp3/.
-* Eisenstein's (2019) "Introduction to Natural Language Processing".
-* Other readings will be made available on the website with each lecture
+### Other Related Readings
+* Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, 2016.
+* François Fleuret, the Little Book of Deep Learning
+* Hal Daumé III, A Course in Machine Learning.
+* Emily Bender, Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax, Morgan & Claypool, 2013.
+* Emily Bender, Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics, Morgan & Claypool, 2019.
+* Noah Smith, Linguistic Structure Prediction, Mogran & Claypool, 2011. (available online)
+
+### NLP Conferences and Journals
+The main publication venues are ACL, NACCL, EMNLP, TACL, EACL, CoNLL, and CL. All papers from these publications can be found in the ACL Anthology. NLP publications often appear in ML and AI conferences, including ICML, NeurIPS, ICLR, AAAI, IJCAI. Work in the intersection of NLP and other fields often appears in the venues of these fields, such as Computer Vision (CVPR, ICCV, ECCV, etc.) and Robotics (CoRL, RSS, ICRA, HRI, etc.).
+
 
 ## Communication
 
 For Submitting assignments: Canvas
-For announcements: TBD
+For announcements: Teams
 
 Please email me if you have not been added to either of these platforms. 
