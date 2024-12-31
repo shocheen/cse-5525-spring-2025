@@ -23,11 +23,18 @@ nav_order: 2
 
 Coming soon 
 
+* The course requirements include project work (including group projects). The milestones for this work will include submitting a written project proposal, a mid term project report, a final oral presentation and a written report.
+
+
 ## Learning Resources
 
 ### Textbook
 
-Coming soon 
+Recommended Texts & Other Readings:
+
+* Jurafsky and Martin’s (in preparation) "Speech and Language Processing", 3rd Edition: https://web.stanford.edu/~jurafsky/slp3/.
+* Eisenstein's (2019) "Introduction to Natural Language Processing".
+* Other readings will be made available on the website with each lecture
 
 ## Communication
 
