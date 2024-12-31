@@ -2,7 +2,8 @@
 layout: home
 title: Home
 nav_exclude: false
-permalink: /:path/
+nav_order: 1
+permalink: /
 seo:
   type: Course
   name: Foundations of Speech and Language Processing
