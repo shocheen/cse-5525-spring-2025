@@ -26,6 +26,12 @@ This course constitutes an introduction to natural language processing (NLP), th
 NLP is at the heart of many of today’s most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. 
 The course will introduce core problems and methodologies in NLP, including machine learning, problem design, and evaluation methods.
 
+---
+
+**Lectures**: MW 2:20-3:40 pm ET 
+
+**Lecture Location**: Jennings Hall 60
+
 ## Prerequisite Knowledge
 
 ### Formal
@@ -52,11 +58,6 @@ There are a ton of Python resources for people with some programming experience.
 
 Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning. If you learn by coding then you will find this resource helpful [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
 
----
-
-Lectures: MW 2:20-3:40 pm ET 
-
-Lecture Location: Jennings Hall 60
 
 ---
 
