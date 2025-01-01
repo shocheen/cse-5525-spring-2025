@@ -34,9 +34,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   "Canvas":
-    - "#"
+    - "https://osu.instructure.com/courses/176264"
   "Teams":
-    - "#"
+    - "https://teams.microsoft.com/l/team/19%3Al2jHtvIe2ECcfa7Mm6n617rGZL-PwhUa0qFM7VdtiTQ1%40thread.tacv2/conversations?groupId=7c3830d3-e6bb-4d20-afbe-3f2d403f4928&tenantId=eb095636-1052-4895-952b-1ff9df1d1121"
 footer_content:
 
 # Collections for website data
