@@ -79,6 +79,6 @@ Math and machine learning basics are nicely covered in the first part of the [De
 
 ## Code of Conduct
 
-The strength of the university depends on academic and personal integrity. In this course, you must be honest and truthful, abiding by the University Academic Integrity Policy: https://oaa.osu.edu/academic-integrity-and-misconduct
+The strength of the university depends on academic and personal integrity. In this course, you must be honest and truthful, abiding by the University Academic Integrity Policy: [https://oaa.osu.edu/academic-integrity-and-misconduct](https://oaa.osu.edu/academic-integrity-and-misconduct)
 
 
