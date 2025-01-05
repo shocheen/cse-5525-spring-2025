@@ -28,20 +28,20 @@ There is no required textbook for this course.
 
 ### All readings are optional. Readings from book chapters and papers will be posted on the course website.
 
-* Y. Goldberg, Neural Network Methods in Natural Language Processing, 2017. (available online within Ohio State)
-Michael Collins, Notes on Statistical NLP.
-* D. Jurafsky & James H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition, Prentice Hall, Third Edition, 2023 (in progress).
-* J. Eisenstein, Introduction to Natural Language Processing, MIT Press, 2019. (complete draft available online)
-* C.D. Manning & H. Schuetze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
-* P. Koehn, Neural Machine Translation (book chapter drafts)
+* [Y. Goldberg, Neural Network Methods in Natural Language Processing, 2017.](https://dl.acm.org/doi/book/10.5555/3110856)
+* [Michael Collins, Notes on Statistical NLP.](https://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
+* [D. Jurafsky & James H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition, Prentice Hall, Third Edition, 2023 (in progress).](https://web.stanford.edu/~jurafsky/slp3/)
+* [J. Eisenstein, Introduction to Natural Language Processing, MIT Press, 2019.](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf)
+* [C.D. Manning & H. Schuetze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.](https://dl.acm.org/doi/book/10.5555/311445)
+* [P. Koehn, Neural Machine Translation (book chapter drafts)](https://arxiv.org/pdf/1709.07809)
 
 ### Other Related Readings
-* Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, 2016.
-* François Fleuret, the Little Book of Deep Learning
-* Hal Daumé III, A Course in Machine Learning.
-* Emily Bender, Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax, Morgan & Claypool, 2013.
-* Emily Bender, Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics, Morgan & Claypool, 2019.
-* Noah Smith, Linguistic Structure Prediction, Mogran & Claypool, 2011. (available online)
+* [Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, 2016.](https://www.deeplearningbook.org/)
+* [François Fleuret, the Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)
+* [Hal Daumé III, A Course in Machine Learning.](http://ciml.info/)
+* [Emily Bender, Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax, Morgan & Claypool, 2013.](https://dl.acm.org/doi/book/10.5555/2534456)
+* [Emily Bender, Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics, Morgan & Claypool, 2019.](https://dl.acm.org/doi/book/10.5555/3383733)
+* [Noah Smith, Linguistic Structure Prediction, Mogran & Claypool, 2011.](https://link.springer.com/book/10.1007/978-3-031-02150-3)
 
 ### NLP Conferences and Journals
 The main publication venues are ACL, NACCL, EMNLP, TACL, EACL, CoNLL, and CL. All papers from these publications can be found in the ACL Anthology. NLP publications often appear in ML and AI conferences, including ICML, NeurIPS, ICLR, AAAI, IJCAI. Work in the intersection of NLP and other fields often appears in the venues of these fields, such as Computer Vision (CVPR, ICCV, ECCV, etc.) and Robotics (CoRL, RSS, ICRA, HRI, etc.).
