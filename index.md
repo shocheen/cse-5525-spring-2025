@@ -29,7 +29,7 @@ The course will introduce core problems and methodologies in NLP, including mach
 
 ---
 
-**Lectures**: MW 2:20-3:40 pm ET 
+**Lectures**: WF 2:20-3:40 pm ET 
 
 **Lecture Location**: Jennings Hall 60
 
@@ -43,7 +43,7 @@ CSE 3521 or CSE 5521; CSE 5522; Stat 3460 or 3470.
 
 We expect that you:
 
-…are experienced with programming in Python – we won’t be reviewing your your code directly and we expect you to figure out the implementation side on your own; we are here to help you with understanding concepts and translating ideas into pseudocode,
+…are experienced with programming in Python – we won't be reviewing your your code directly and we expect you to figure out the implementation side on your own; we are here to help you with understanding concepts and translating ideas into pseudocode,
 
 …are comfortable with basic calculus, probability, and linear algebra,
 
@@ -51,7 +51,7 @@ We expect that you:
 
 …can quickly pick up coding in pytorch,
 
-…are interested in language and don’t aim to just deepen your machine learning knowledge.
+…are interested in language and don't aim to just deepen your machine learning knowledge.
 
 **Revisiting/polishing your knowledge**:
 
