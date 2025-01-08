@@ -5,7 +5,7 @@ email: kumar.1145@osu.edu
 website: http://shocheen.com
 photo: sachin.jpg
 meta:
-  Office Hours: TBD (DL 581)
+  Office Hours: By appointment
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->
