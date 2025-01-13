@@ -1,0 +1,91 @@
+- section: Elements of a Simple NLP System
+  lectures:
+    - date: 08-Jan
+      topic: Course Overview / Introduction
+      badges:
+        - text: HW1 Out
+          color: green
+    - date: 10-Jan
+      topic: Text Classification, Data Basics, Perceptron
+    - date: 15-Jan
+      topic: Neural Network Basics
+
+- section: Learning from Raw Data
+  lectures:
+    - date: 17-Jan
+      topic: Lexical Semantics, Word Embeddings
+    - date: 22-Jan
+      topic: N-gram Language Models
+      badges:
+        - text: HW1 Due
+          color: red
+        - text: HW2 Out
+          color: green
+    - date: 24-Jan
+      topic: Tokenization
+    - date: 29-Jan
+      topic: Neural Language Models, Attention
+    - date: 31-Jan
+      topic: Transformers
+    - date: 05-Feb
+      topic: "Pre-training 1: Encoders (BERT)"
+      badges:
+        - text: HW2 Due
+          color: red
+    - date: 07-Feb
+      topic: "Pre-training 2: Decoders (GPT/T5), Decoding Methods"
+    - date: 12-Feb
+      topic: Evaluation in NLP, Datasets, Dataset Bias, Statistical Significance
+      badges:
+        - text: FP Proposals Due
+          color: red
+        - text: HW3 Out
+          color: green
+    - date: 14-Feb
+      topic: "Understanding GPT3 1: Prompting, Interpreting GPT-3"
+    - date: 19-Feb
+      topic: "Understanding GPT3 2: Rationales, Chain-of-thought"
+    - date: 21-Feb
+      topic: "Understanding GPT3 3: Instruction tuning, RL in NLP"
+      badges:
+      - text: HW3 Due
+        color: red
+    - date: 26-Feb
+      topic: "Interpretability"
+
+- section: Learning from Labeled Data
+  lectures:
+    - date: 28-Feb
+      topic: Sequence Tagging
+    - date: 05-Mar
+      topic: "Trees 1: Constituency, PCFGs"
+    - date: 07-Mar
+      topic: "Trees 2: Dependency, Shift-reduce, State-of-the-art Parsers"
+    - date: 12-Mar
+      topic: NO CLASS
+    - date: 14-Mar
+      topic: NO CLASS
+    - date: 19-Mar
+      topic: "Apps 1: Question Answering"
+    - date: 21-Mar
+      topic: "Apps 2: Machine Translation"
+    - date: 26-Mar
+      topic: "Apps 3: Language and Code"
+      badges:
+        - text: FP Check in Due
+          color: red
+    - date: 28-Mar
+      topic: "Efficiency in LLMs: Decoding, Pruning, Training"
+    - date: 02-Apr
+      topic: Language grounding
+    - date: 04-Apr
+      topic: Morphology / LLM Safety
+    - date: 09-Apr
+      topic: LLMs, Society, and Ethics of NLP
+    - date: 11-Apr
+      topic: FP Presentations
+    - date: 16-Apr
+      topic: FP Presentations
+      badges:
+        - text: FP Final Reports Due TBD
+          color: red
