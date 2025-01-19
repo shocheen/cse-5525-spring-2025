@@ -1,5 +1,5 @@
 ---
-title: Assignment 2
+title: Assignment 1
 week: 2
 date: 2025-01-18
 ---
