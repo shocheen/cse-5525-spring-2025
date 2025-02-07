@@ -28,28 +28,25 @@
     - date: 31-Jan
       topic: Transformers
     - date: 05-Feb
-      topic: "Pre-training 1: Encoders (BERT)"
-      badges:
-        - text: HW2 Due
-          color: red
+      topic: No class
     - date: 07-Feb
-      topic: "Pre-training 2: Decoders (GPT/T5), Decoding Methods"
+      topic: "Pre-training 1: Encoders (BERT)" 
+      badges:
+        - text: HW2 Due (Feb 10)
+          color: red
     - date: 12-Feb
-      topic: Evaluation in NLP, Datasets, Dataset Bias, Statistical Significance
+      topic: "Pre-training 2: Decoders (GPT/T5), Decoding Methods" 
+    - date: 14-Feb
+      topic: "Understanding GPT3 1: Prompting, Interpreting GPT-3" 
+    - date: 19-Feb
+      topic: "Understanding GPT3 2: Rationales, Chain-of-thought"
       badges:
         - text: FP Proposals Due
           color: red
         - text: HW3 Out
           color: green
-    - date: 14-Feb
-      topic: "Understanding GPT3 1: Prompting, Interpreting GPT-3"
-    - date: 19-Feb
-      topic: "Understanding GPT3 2: Rationales, Chain-of-thought"
     - date: 21-Feb
       topic: "Understanding GPT3 3: Instruction tuning, RL in NLP"
-      badges:
-      - text: HW3 Due
-        color: red
     - date: 26-Feb
       topic: "Interpretability"
 
@@ -59,6 +56,9 @@
       topic: Sequence Tagging
     - date: 05-Mar
       topic: "Trees 1: Constituency, PCFGs"
+      badges:
+      - text: HW3 Due
+        color: red
     - date: 07-Mar
       topic: "Trees 2: Dependency, Shift-reduce, State-of-the-art Parsers"
     - date: 12-Mar
