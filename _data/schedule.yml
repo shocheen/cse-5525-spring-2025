@@ -69,7 +69,7 @@
     - date: 14-Mar
       topic: NO CLASS
 
-- section: Modern LMs: in Practice
+- section: Modern LMs in Practice
   lectures:
     - date: 19-Mar
       topic: "Tools use and LLM Agents"
