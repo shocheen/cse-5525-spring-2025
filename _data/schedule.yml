@@ -10,7 +10,7 @@
     - date: 15-Jan
       topic: Neural Network Basics
 
-- section: Model Language Modeling Fundamentals
+- section: Language Modeling Fundamentals
   lectures:
     - date: 17-Jan
       topic: Lexical Semantics, Word Embeddings
@@ -30,14 +30,14 @@
     - date: 05-Feb
       topic: No class
     - date: 07-Feb
-      topic: "Pre-training 1: Encoders (BERT)" 
+      topic: "Pre-training 1: Encoders (BERT)"
       badges:
         - text: HW2 Due (Feb 10)
           color: red
     - date: 12-Feb
-      topic: "Pre-training 2: BART/T5/GPT, Decoding Methods" 
+      topic: "Pre-training 2: BART/T5/GPT, Decoding Methods"
     - date: 14-Feb
-      topic: "Pre-training 3: Scaling, Prompting, In-Context Learning, Chain-of-Thought" 
+      topic: "Pre-training 3: Scaling, Prompting, In-Context Learning, Chain-of-Thought"
 
 - section: Learning from Labeled Data
   lectures:
@@ -54,14 +54,14 @@
       topic: "Parameter Efficient Finetuning: (Q)LoRA"
     - date: 28-Feb
       topic: Benchmarking
-    
+
 - section: Linguistic Structure Prediction
   lectures:
     - date: 05-Mar
       topic: "Sequence Tagging"
       badges:
-      - text: HW3 Due
-        color: red
+        - text: HW3 Due
+          color: red
     - date: 07-Mar
       topic: "Parsing"
     - date: 12-Mar
@@ -93,5 +93,5 @@
     - date: 16-Apr
       topic: FP Presentations
       badges:
-        - text: FP Final Reports Due TBD
+        - text: "FP Final Reports Due TBD"
           color: red
