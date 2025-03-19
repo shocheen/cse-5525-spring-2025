@@ -72,22 +72,22 @@
 - section: Modern LMs in Practice
   lectures:
     - date: 19-Mar
-      topic: "Tools use and LLM Agents"
+      topic: Interpretability
     - date: 21-Mar
-      topic: "Multilingual LMs"
+      topic: "Efficiency"
     - date: 26-Mar
       topic: "Multimodal LMs"
     - date: 28-Mar
-      topic: "Efficiency in LLMs: Decoding, Pruning, Training"
+      topic: "Multilingual LMs"
       badges:
         - text: FP Check in Due
           color: red
     - date: 02-Apr
       topic: Retrieval Augmented LMs
     - date: 04-Apr
-      topic: LLM Safety
+      topic: Agents"
     - date: 09-Apr
-      topic: LLMs, Society, and Ethics of NLP
+      topic: Safety and Ethics 
     - date: 11-Apr
       topic: FP Presentations
     - date: 16-Apr
