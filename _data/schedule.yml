@@ -83,15 +83,17 @@
         - text: FP Check in Due
           color: red
     - date: 02-Apr
-      topic: Retrieval Augmented LMs
+      topic: Retrieval
     - date: 04-Apr
       topic: Agents"
     - date: 09-Apr
-      topic: Safety and Ethics 
+      topic: Multilinguality
     - date: 11-Apr
-      topic: FP Presentations
+      topic: Safety and Ethics
     - date: 16-Apr
       topic: FP Presentations
+    - date: 18-Apr
+      topic: FP Presentations
       badges:
-        - text: "FP Final Reports Due TBD"
+        - text: "FP Final Reports Due April 25"
           color: red
